@@ -130,7 +130,6 @@ window.I18N = {
 
     warnLimiter: 'Das schaltet die Geschwindigkeitsbegrenzung des Rollers um. Ohne Begrenzung ist der Betrieb auf öffentlichen Wegen nicht erlaubt.',
     warnUnlock: 'Das hebt die elektronische Sperre auf (+LOCK=0).',
-    disclaimerText: 'Dieses Werkzeug ist eine Machbarkeitsstudie, kein fertiges Produkt. Es gibt keine Gewährleistung und keine Zusicherung fehlerfreien Betriebs. Das Anheben der Geschwindigkeit hebt die Drossel auf: die ABE erlischt und der Betrieb auf öffentlichen Wegen ist dann nicht erlaubt. Nutze es nur am eigenen Fahrzeug und auf eigenes Risiko. Die Seite spricht nur lokal über Bluetooth mit dem Gerät, es werden keine Daten an einen Server gesendet. KUKIRIN ist eine Marke des jeweiligen Inhabers. Dieses Projekt ist unabhängig und steht in keiner Verbindung zu KUKIRIN oder Kugoo.',
 
     errNoWebBt: 'Dieser Browser hat kein Web Bluetooth. Nutze Chrome, Edge oder Bluefy (iOS).',
     errNotConnected: 'nicht verbunden',
@@ -276,7 +275,6 @@ window.I18N = {
 
     warnLimiter: 'This toggles the scooter speed limiter. With no limiter, riding on public roads is not allowed.',
     warnUnlock: 'This releases the electronic lock (+LOCK=0).',
-    disclaimerText: 'This tool is a feasibility study, not a finished product. There is no warranty and no guarantee of error-free operation. Raising the speed removes the throttle: the type approval becomes void and riding on public roads is then not allowed. Use it only on your own vehicle and at your own risk. The page talks to the device locally over Bluetooth only, no data is sent to any server. KUKIRIN is a trademark of its respective owner. This project is independent and not affiliated with KUKIRIN or Kugoo.',
 
     errNoWebBt: 'This browser has no Web Bluetooth. Use Chrome, Edge or Bluefy (iOS).',
     errNotConnected: 'not connected',
