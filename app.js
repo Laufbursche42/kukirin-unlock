@@ -17,7 +17,7 @@
  */
 
 // Pre-commit cache-buster auto-bumps BUILD and every ?v= on any web-asset change.
-const BUILD = 'v7';
+const BUILD = 'v8';
 
 // --------------------------- UUIDs (LFBluetootService.java:68-77; Web Bluetooth wants lowercase) ---------------------------
 // Three interchangeable families. CONNECT_TYPE is set by which write characteristic is discovered on the
